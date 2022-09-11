@@ -33,7 +33,7 @@
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": "attributes.encroachment",
   "url": "https://github.com/TheOddOracle/FVTT-DX3rd-System",
-  "manifest": "https://raw.githubusercontent.com/TheOddOracle/FVTT-DX3rd-System/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/TheOddOracle/FVTT-DX3rd-System/master/system.json",
   "download": "https://codeload.github.com/TheOddOracle/FVTT-DX3rd-System/zip/main",
   "license": "LICENSE.txt"
 }
