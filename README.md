@@ -1,14 +1,13 @@
 # FVTT-DX3rd-System
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ltaeng?country.x=KR&locale.x=ko_KR)
 
-This is a Foundry VTT System of DX3rd Tabletop RPG.
+This is an unofficial English Localization of ksx's FVTT DX3rd implementation
 
 Installation Instructions
 -------------
 To install the DX3rd system for Foundry Virtual Tabletop, simply paste the following URL into the Install System
 dialog on the Setup menu of the application.
 
-https://raw.githubusercontent.com/ksx0330/FVTT-DX3rd-System/main/system.json
+https://raw.githubusercontent.com/TheOddOracle/FVTT-DX3rd-System/main/system.json
 
 Supported Langages
 -------------
