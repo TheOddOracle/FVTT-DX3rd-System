@@ -1,6 +1,6 @@
 # FVTT-DX3rd-System
 
-This is an unofficial English Localization of ksx's FVTT DX3rd implementation
+This is an unofficial English Localization of ksx's FVTT DX3rd implementation, still WIP as of now and really only meant for personal use.
 
 Installation Instructions
 -------------
